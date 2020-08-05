@@ -4,4 +4,6 @@ This folder includes Zihan Zhang's internship experience with Associate Professo
 
 The experience is meaningful and significant, since it was my first time to take charge a small project all by myself and wrote codes to solve academic problem. Basically, I implemented dynamic programming, Dijkstra algorithm,  Markov Decision Process, Lagrange Multiplier and Python Programming. I also crafted two papers to illustrate the results (in Chinese). 
 
+b_k
+
 
