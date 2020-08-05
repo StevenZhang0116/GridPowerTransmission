@@ -4,8 +4,6 @@ This folder includes Zihan Zhang's internship experience with Associate Professo
 
 Basically, I implemented dynamic programming, Dijkstra algorithm,  Markov Decision Process, Lagrange Multiplier and Python Programming. I also crafted two papers to illustrate the results (in Chinese). 
 
-x^{2}
-
 
 
 
